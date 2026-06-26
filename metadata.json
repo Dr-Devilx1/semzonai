@@ -1,0 +1,6 @@
+{
+  "name": "SEMZON Engineering",
+  "description": "Official website for SEMZON Engineering - Premium international engineering and manufacturing company delivering turnkey industrial solutions for feed production, biomass, and organic fertilizer plants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
